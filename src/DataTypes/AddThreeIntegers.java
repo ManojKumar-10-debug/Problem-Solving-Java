@@ -1,8 +1,11 @@
 /*
-1. Take three numbers as input.
-2. Add the three numbers.
-3. Store the result in variable sum.
-4. Print sum.
+Notes:
+1. Scanner takes three integer inputs.
+2. firstNumber, secondNumber, and thirdNumber store the inputs.
+3. addThreeIntegers() receives the three numbers as parameters.
+4. The method adds the three numbers and returns the result.
+5. The returned result is stored in res.
+6. res is printed using System.out.println().
 */
 package DataTypes;
 

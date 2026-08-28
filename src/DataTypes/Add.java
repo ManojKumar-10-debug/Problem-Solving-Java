@@ -19,7 +19,6 @@ public class Add {
         int secondNumber = input.nextInt();
 
         int c = firstNumber + secondNumber;
-
         System.out.println(c);
     }
 }

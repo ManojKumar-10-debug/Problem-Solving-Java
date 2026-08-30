@@ -24,6 +24,6 @@ public class CircleArea {
         // formula
         double area = PI * radius * radius;
 
-        System.out.println(area);
+        System.out.printf("%.4f\n", area);
     }
 }
